@@ -9,4 +9,4 @@ Make sure that you list your event files in the proper way to be used in the con
 
 This tutorial is based on the 10-year 4FGL Catalog (4FGL-DR2), or v27 of the catalog: https://fermi.gsfc.nasa.gov/ssc/data/access/lat/10yr_catalog/ This is because Fermipy currently cannot work on the latest DR3 catalog. Once it's updated, this tutorial will be updated.
 
-Please also make sure that all catalog files, alltime spacecraft and event files, and galactic diffuse and isotropic diffuse files are in place and edit the config file accordingly
+Please also make sure that all catalog files, alltime spacecraft and event files, and galactic diffuse and isotropic diffuse files are in place. Edit the config file accordingly
