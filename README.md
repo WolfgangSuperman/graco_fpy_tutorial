@@ -1,6 +1,7 @@
 # graco_fpy_tutorial
 A Jupyter notebook to intro the fermipy procedures for gamma-ray analysis done with the GRACO research group at AMNH
- ~~~Adapted from the work of Robert Song~~~
+
+### Adapted from the work of Robert Song ###
 
 To be able to follow along in this tutorial, please use the positional information to access the proper Fermi-LAT photon data and Spacecraft file: https://fermi.gsfc.nasa.gov/cgi-bin/ssc/LAT/LATDataQuery.cgi
 
